@@ -6,7 +6,7 @@ interface ITodo {
 }
 const todos = [
     {
-        title: 'Learn JavaScript',
+        title: 'Learn JavaScript!',
         completed: true
     },
     {
